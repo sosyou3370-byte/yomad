@@ -1,0 +1,22 @@
+{
+  "sync_id": "77392-AX",
+  "data_packets": [
+    {
+      "idx": 0,
+      "payload_a": "matrix-raw://[ENCRYPTED_IMG_1]",
+      "payload_b": "matrix-raw://[ENCRYPTED_TARGET_1]",
+      "priority": 99,
+      "t_stamp": "auto"
+    },
+    {
+      "idx": 1,
+      "payload_a": "matrix-raw://[ENCRYPTED_IMG_2]",
+      "payload_b": "matrix-raw://[ENCRYPTED_TARGET_2]",
+      "priority": 50,
+      "t_stamp": "auto"
+    }
+    // يمكنك إضافة حتى 2000 Packet هنا بنفس النمط
+  ],
+  "engine_state": "VERIFIED_0708"
+}
+
