@@ -3,15 +3,15 @@
   "data_packets": [
     {
       "idx": 0,
-      "payload_a": "matrix-raw://[ENCRYPTED_IMG_1]",
-      "payload_b": "https://gitlab.com/matrixproject-group/yomad/-/raw/main/ads_config.json]",
+      "payload_a": "matrix-raw://fnx3FFHIMc3vOhETw4+29T6ySQtPRFWXG2P5N98zpg44XrItaRNNmgJBUwh4no7xpyIPuHvwYO7HT5z3CSXUPkUh23MZeWymKJvQvnsbVOhg9flwRT64oy/zOB3FBmqocCGjfA==",
+      "payload_b": "matrix-raw://fnx3FFHIMc3vOhETw4+29T6ySQtPRFWXG2P5N98zpg44XrItaRNNmgJBUwh4no7xpyIPuHvwYO7HT5z3CSXUPkUh23MZeWymKJvQvnsbVOhg9flwRT64oy/zOB3FBmqocCGjfA==",
       "priority": 99,
       "t_stamp": "auto"
     },
     {
       "idx": 1,
-      "payload_a": "https://gitlab.com/matrixproject-group/yomad/-/raw/main/ads_config.json]",
-      "payload_b": "https://gitlab.com/matrixproject-group/yomad/-/raw/main/ads_config.json",
+      "payload_a": "matrix-raw://fnx3FFHIMc3vOhETw4+29T6ySQtPRFWXG2P5N98zpg44XrItaRNNmgJBUwh4no7xpyIPuHvwYO7HT5z3CSXUPkUh23MZeWymKJvQvnsbVOhg9flwRT64oy/zOB3FBmqocCGjfA==",
+      "payload_b": "matrix-raw://fnx3FFHIMc3vOhETw4+29T6ySQtPRFWXG2P5N98zpg44XrItaRNNmgJBUwh4no7xpyIPuHvwYO7HT5z3CSXUPkUh23MZeWymKJvQvnsbVOhg9flwRT64oy/zOB3FBmqocCGjfA==",
       "priority": 50,
       "t_stamp": "auto"
     }
