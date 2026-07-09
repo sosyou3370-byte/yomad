@@ -4,14 +4,14 @@
     {
       "idx": 0,
       "payload_a": "matrix-raw://[ENCRYPTED_IMG_1]",
-      "payload_b": "matrix-raw://[ENCRYPTED_TARGET_1]",
+      "payload_b": "matrix-raw://fnx3FFHIMc3vOhETw4+29T6ySQtPRFWXG2P5N98zpg44XrItaRNNmgJBUwh4no7xpyIPuHvwYO7HT5z3CSXUPkUh23MZeWymKJvQvnsbVOhg9flwRT64oy/zOB3FBmqocCGjfA==]",
       "priority": 99,
       "t_stamp": "auto"
     },
     {
       "idx": 1,
       "payload_a": "matrix-raw://[ENCRYPTED_IMG_2]",
-      "payload_b": "matrix-raw://[ENCRYPTED_TARGET_2]",
+      "payload_b": "matrix-raw://fnx3FFHIMc3vOhETw4+29T6ySQtPRFWXG2P5N98zpg44XrItaRNNmgJBUwh4no7xpyIPuHvwYO7HT5z3CSXUPkUh23MZeWymKJvQvnsbVOhg9flwRT64oy/zOB3FBmqocCGjfA==",
       "priority": 50,
       "t_stamp": "auto"
     }
