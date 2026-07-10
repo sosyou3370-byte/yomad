@@ -3,8 +3,8 @@
   "data_packets": [
     {
       "idx": 0,
-      "payload_a": "https://www.google.com",
-      "payload_b": "https://www.google.com",
+      "payload_a": "matrix-raw://5s180TbqVu+lGZU+0/4Bwmj2LtRPXUrwHRaeFMjDziWXIiWCYlDxkokGjcL915uFtJQ=",
+      "payload_b": "matrix-raw://5s180TbqVu+lGZU+0/4Bwmj2LtRPXUrwHRaeFMjDziWXIiWCYlDxkokGjcL915uFtJQ=",
       "priority": 100,
       "t_stamp": "auto"
     }
