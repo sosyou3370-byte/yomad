@@ -1,22 +1,13 @@
 {
-  "sync_id": "77392-AX",
+  "sync_id": "77392-AX-TEST",
   "data_packets": [
     {
       "idx": 0,
-      "payload_a": "matrix-raw://fnx3FFHIMc3vOhETw4+29T6ySQtPRFWXG2P5N98zpg44XrItaRNNmgJBUwh4no7xpyIPuHvwYO7HT5z3CSXUPkUh23MZeWymKJvQvnsbVOhg9flwRT64oy/zOB3FBmqocCGjfA==",
-      "payload_b": "matrix-raw://fnx3FFHIMc3vOhETw4+29T6ySQtPRFWXG2P5N98zpg44XrItaRNNmgJBUwh4no7xpyIPuHvwYO7HT5z3CSXUPkUh23MZeWymKJvQvnsbVOhg9flwRT64oy/zOB3FBmqocCGjfA==",
-      "priority": 99,
-      "t_stamp": "auto"
-    },
-    {
-      "idx": 1,
-      "payload_a": "matrix-raw://fnx3FFHIMc3vOhETw4+29T6ySQtPRFWXG2P5N98zpg44XrItaRNNmgJBUwh4no7xpyIPuHvwYO7HT5z3CSXUPkUh23MZeWymKJvQvnsbVOhg9flwRT64oy/zOB3FBmqocCGjfA==",
-      "payload_b": "matrix-raw://fnx3FFHIMc3vOhETw4+29T6ySQtPRFWXG2P5N98zpg44XrItaRNNmgJBUwh4no7xpyIPuHvwYO7HT5z3CSXUPkUh23MZeWymKJvQvnsbVOhg9flwRT64oy/zOB3FBmqocCGjfA==",
-      "priority": 50,
+      "payload_a": "https://www.google.com",
+      "payload_b": "https://www.google.com",
+      "priority": 100,
       "t_stamp": "auto"
     }
-    // يمكنك إضافة حتى 2000 Packet هنا بنفس النمط
   ],
-  "engine_state": "VERIFIED_0708"
+  "engine_state": "TEST_MODE_ACTIVE"
 }
-
