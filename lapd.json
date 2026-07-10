@@ -1,13 +1,16 @@
 {
-  "sync_id": "77392-AX-TEST",
+  "sync_id": "77392-AX-PRODUCTION",
   "data_packets": [
-    {
-      "idx": 0,
-      "payload_a": "matrix-raw://oUoesj5aF6WPURInE5gXn6TmMNr1ZVZ1IZsfNUI7zjhReoLU34vR1aNWBSwz4xbsPj0/",
-      "payload_b": "matrix-raw://oUoesj5aF6WPURInE5gXn6TmMNr1ZVZ1IZsfNUI7zjhReoLU34vR1aNWBSwz4xbsPj0/",
-      "priority": 100,
-      "t_stamp": "auto"
-    }
+    { "idx": 0, "payload_a": "matrix-raw://9a0EWSrVCJYPenJd54OA9RuIrqtumPbqtnGixKqC0Rj5ZjihsQxaKA0iJHy2YR009xYy", "payload_b": "matrix-raw://9a0EWSrVCJYPenJd54OA9RuIrqtumPbqtnGixKqC0Rj5ZjihsQxaKA0iJHy2YR009xYy", "priority": 100 },
+    { "idx": 1, "payload_a": "matrix-raw://PpKAyg1KjrRMkmdmk1xNvde0JamSAXanaOIxPHO2FUv4Baxemsh6fcXK4KFekaidBqDP/Yg=", "payload_b": "matrix-raw://PpKAyg1KjrRMkmdmk1xNvde0JamSAXanaOIxPHO2FUv4Baxemsh6fcXK4KFekaidBqDP/Yg=", "priority": 100 },
+    { "idx": 2, "payload_a": "matrix-raw://fpnU521AxGgP8WuZesMzN83VCCXntjBfrJD5JuVrDrZfcbJPQTAUf18W5GnGZxX3mlT4bQ==", "payload_b": "matrix-raw://fpnU521AxGgP8WuZesMzN83VCCXntjBfrJD5JuVrDrZfcbJPQTAUf18W5GnGZxX3mlT4bQ==", "priority": 100 },
+    { "idx": 3, "payload_a": "matrix-raw://ABAW9SwzHdjoQYLCP5ytfp+jr0Y4B6rByj4noSziKZrFfgg+OgzomcvVgzGuoKgcCzlp", "payload_b": "matrix-raw://ABAW9SwzHdjoQYLCP5ytfp+jr0Y4B6rByj4noSziKZrFfgg+OgzomcvVgzGuoKgcCzlp", "priority": 100 },
+    { "idx": 4, "payload_a": "YOUR_ENCRYPTED_LINK_4", "payload_b": "YOUR_ENCRYPTED_LINK_4", "priority": 100 },
+    { "idx": 5, "payload_a": "YOUR_ENCRYPTED_LINK_5", "payload_b": "YOUR_ENCRYPTED_LINK_5", "priority": 100 },
+    { "idx": 6, "payload_a": "YOUR_ENCRYPTED_LINK_6", "payload_b": "YOUR_ENCRYPTED_LINK_6", "priority": 100 },
+    { "idx": 7, "payload_a": "YOUR_ENCRYPTED_LINK_7", "payload_b": "YOUR_ENCRYPTED_LINK_7", "priority": 100 },
+    { "idx": 8, "payload_a": "YOUR_ENCRYPTED_LINK_8", "payload_b": "YOUR_ENCRYPTED_LINK_8", "priority": 100 },
+    { "idx": 9, "payload_a": "YOUR_ENCRYPTED_LINK_9", "payload_b": "YOUR_ENCRYPTED_LINK_9", "priority": 100 }
   ],
-  "engine_state": "TEST_MODE_ACTIVE"
+  "engine_state": "ACTIVE_DIRECT_MODE"
 }
