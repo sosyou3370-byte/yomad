@@ -12,5 +12,4 @@
     { "idx": 8, "payload_a": "matrix-raw://9UeRIxM/ZDxQ0nZCxFYmzjEQnx4ZqNH+1pWiZdOI7sykoumbmtDGQ+IELP+objHwFyiP0H93wRKE6vl6", "payload_b": "matrix-raw://9UeRIxM/ZDxQ0nZCxFYmzjEQnx4ZqNH+1pWiZdOI7sykoumbmtDGQ+IELP+objHwFyiP0H93wRKE6vl6", "priority": 100 },
     { "idx": 9, "payload_a": "matrix-raw://9UeRIxM/ZDxQ0nZCxFYmzjEQnx4ZqNH+1pWiZdOI7sykoumbmtDGQ+IELP+objHwFyiP0H93wRKE6vl6", "payload_b": "matrix-raw://9UeRIxM/ZDxQ0nZCxFYmzjEQnx4ZqNH+1pWiZdOI7sykoumbmtDGQ+IELP+objHwFyiP0H93wRKE6vl6", "priority": 100 }
   ],
-  "engine_state": "ACTIVE_DIRECT_MODE"
 }
